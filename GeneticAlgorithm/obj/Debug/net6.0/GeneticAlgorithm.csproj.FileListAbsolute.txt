@@ -1,0 +1,42 @@
+C:\Users\a_n_a\OneDrive\Рабочий стол\учеба\нейронки\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\net6.0\GeneticAlgorithm.exe
+C:\Users\a_n_a\OneDrive\Рабочий стол\учеба\нейронки\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\net6.0\GeneticAlgorithm.deps.json
+C:\Users\a_n_a\OneDrive\Рабочий стол\учеба\нейронки\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\net6.0\GeneticAlgorithm.runtimeconfig.json
+C:\Users\a_n_a\OneDrive\Рабочий стол\учеба\нейронки\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\net6.0\GeneticAlgorithm.dll
+C:\Users\a_n_a\OneDrive\Рабочий стол\учеба\нейронки\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\net6.0\GeneticAlgorithm.pdb
+C:\Users\a_n_a\OneDrive\Рабочий стол\учеба\нейронки\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\net6.0\GeneticAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a_n_a\OneDrive\Рабочий стол\учеба\нейронки\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\net6.0\GeneticAlgorithm.AssemblyInfoInputs.cache
+C:\Users\a_n_a\OneDrive\Рабочий стол\учеба\нейронки\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\net6.0\GeneticAlgorithm.AssemblyInfo.cs
+C:\Users\a_n_a\OneDrive\Рабочий стол\учеба\нейронки\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\net6.0\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\a_n_a\OneDrive\Рабочий стол\учеба\нейронки\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\net6.0\GeneticAlgorithm.dll
+C:\Users\a_n_a\OneDrive\Рабочий стол\учеба\нейронки\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\net6.0\refint\GeneticAlgorithm.dll
+C:\Users\a_n_a\OneDrive\Рабочий стол\учеба\нейронки\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\net6.0\GeneticAlgorithm.pdb
+C:\Users\a_n_a\OneDrive\Рабочий стол\учеба\нейронки\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\net6.0\GeneticAlgorithm.genruntimeconfig.cache
+C:\Users\a_n_a\OneDrive\Рабочий стол\учеба\нейронки\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\net6.0\ref\GeneticAlgorithm.dll
+C:\Users\a_n_a\Documents\учеба\нейронки\GeneticAlgorithm_v1.2\GeneticAlgorithm\bin\Debug\net6.0\GeneticAlgorithm.exe
+C:\Users\a_n_a\Documents\учеба\нейронки\GeneticAlgorithm_v1.2\GeneticAlgorithm\bin\Debug\net6.0\GeneticAlgorithm.deps.json
+C:\Users\a_n_a\Documents\учеба\нейронки\GeneticAlgorithm_v1.2\GeneticAlgorithm\bin\Debug\net6.0\GeneticAlgorithm.runtimeconfig.json
+C:\Users\a_n_a\Documents\учеба\нейронки\GeneticAlgorithm_v1.2\GeneticAlgorithm\bin\Debug\net6.0\GeneticAlgorithm.dll
+C:\Users\a_n_a\Documents\учеба\нейронки\GeneticAlgorithm_v1.2\GeneticAlgorithm\bin\Debug\net6.0\GeneticAlgorithm.pdb
+C:\Users\a_n_a\Documents\учеба\нейронки\GeneticAlgorithm_v1.2\GeneticAlgorithm\obj\Debug\net6.0\GeneticAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a_n_a\Documents\учеба\нейронки\GeneticAlgorithm_v1.2\GeneticAlgorithm\obj\Debug\net6.0\GeneticAlgorithm.AssemblyInfoInputs.cache
+C:\Users\a_n_a\Documents\учеба\нейронки\GeneticAlgorithm_v1.2\GeneticAlgorithm\obj\Debug\net6.0\GeneticAlgorithm.AssemblyInfo.cs
+C:\Users\a_n_a\Documents\учеба\нейронки\GeneticAlgorithm_v1.2\GeneticAlgorithm\obj\Debug\net6.0\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\a_n_a\Documents\учеба\нейронки\GeneticAlgorithm_v1.2\GeneticAlgorithm\obj\Debug\net6.0\GeneticAlgorithm.dll
+C:\Users\a_n_a\Documents\учеба\нейронки\GeneticAlgorithm_v1.2\GeneticAlgorithm\obj\Debug\net6.0\refint\GeneticAlgorithm.dll
+C:\Users\a_n_a\Documents\учеба\нейронки\GeneticAlgorithm_v1.2\GeneticAlgorithm\obj\Debug\net6.0\GeneticAlgorithm.pdb
+C:\Users\a_n_a\Documents\учеба\нейронки\GeneticAlgorithm_v1.2\GeneticAlgorithm\obj\Debug\net6.0\GeneticAlgorithm.genruntimeconfig.cache
+C:\Users\a_n_a\Documents\учеба\нейронки\GeneticAlgorithm_v1.2\GeneticAlgorithm\obj\Debug\net6.0\ref\GeneticAlgorithm.dll
+C:\Users\a_n_a\Documents\учеба\нейронки\tic_tac_ga\GeneticAlgorithm\bin\Debug\net6.0\GeneticAlgorithm.exe
+C:\Users\a_n_a\Documents\учеба\нейронки\tic_tac_ga\GeneticAlgorithm\bin\Debug\net6.0\GeneticAlgorithm.deps.json
+C:\Users\a_n_a\Documents\учеба\нейронки\tic_tac_ga\GeneticAlgorithm\bin\Debug\net6.0\GeneticAlgorithm.runtimeconfig.json
+C:\Users\a_n_a\Documents\учеба\нейронки\tic_tac_ga\GeneticAlgorithm\bin\Debug\net6.0\GeneticAlgorithm.dll
+C:\Users\a_n_a\Documents\учеба\нейронки\tic_tac_ga\GeneticAlgorithm\bin\Debug\net6.0\GeneticAlgorithm.pdb
+C:\Users\a_n_a\Documents\учеба\нейронки\tic_tac_ga\GeneticAlgorithm\obj\Debug\net6.0\GeneticAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a_n_a\Documents\учеба\нейронки\tic_tac_ga\GeneticAlgorithm\obj\Debug\net6.0\GeneticAlgorithm.AssemblyInfoInputs.cache
+C:\Users\a_n_a\Documents\учеба\нейронки\tic_tac_ga\GeneticAlgorithm\obj\Debug\net6.0\GeneticAlgorithm.AssemblyInfo.cs
+C:\Users\a_n_a\Documents\учеба\нейронки\tic_tac_ga\GeneticAlgorithm\obj\Debug\net6.0\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\a_n_a\Documents\учеба\нейронки\tic_tac_ga\GeneticAlgorithm\obj\Debug\net6.0\GeneticAlgorithm.dll
+C:\Users\a_n_a\Documents\учеба\нейронки\tic_tac_ga\GeneticAlgorithm\obj\Debug\net6.0\refint\GeneticAlgorithm.dll
+C:\Users\a_n_a\Documents\учеба\нейронки\tic_tac_ga\GeneticAlgorithm\obj\Debug\net6.0\GeneticAlgorithm.pdb
+C:\Users\a_n_a\Documents\учеба\нейронки\tic_tac_ga\GeneticAlgorithm\obj\Debug\net6.0\GeneticAlgorithm.genruntimeconfig.cache
+C:\Users\a_n_a\Documents\учеба\нейронки\tic_tac_ga\GeneticAlgorithm\obj\Debug\net6.0\ref\GeneticAlgorithm.dll
